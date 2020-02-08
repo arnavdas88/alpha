@@ -13,7 +13,7 @@ const common_greetings_negative = /(?!(^hello|^hi|^hey|^hllo|^sup|^hola)\b)\w+/i
 
 const questions = {
   start: {
-    botPrompt: 'Hello Human, my name is <strong>Alpha</strong>, I am an awesome <strong>chatbot</strong>',
+    botPrompt: 'Hello Human, my name is <strong>TCBOT</strong>, I am an awesome <strong>chatbot</strong>',
     answers: [
       {
         nextId: 'myPurpose',

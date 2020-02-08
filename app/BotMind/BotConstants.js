@@ -1,3 +1,3 @@
-export const name = 'Alpha'
+export const name = 'TCBOT'
 export const position = 'Virtual Assistant'
-export const company = 'Icalia Labs'
+export const company = 'TEAMCOGNITO - Cyber Security & AI Solutions in Kolkata'
