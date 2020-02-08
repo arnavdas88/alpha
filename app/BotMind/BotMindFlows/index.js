@@ -326,7 +326,7 @@ const questions = {
     ],
   },
   check_out2: {
-    botPrompt: 'https://github.com/IcaliaLabs/alpha',
+    botPrompt: 'https://github.com/arnavdas88/alpha',
     type: RTypes.LINK,
     input: endOfConversation(),
     answers: [
